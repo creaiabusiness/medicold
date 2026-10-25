@@ -1,0 +1,6 @@
+MediCOLD Logistics - Web y PharmaTrace v2
+
+Abrir index.html con Chrome. Acceder a PharmaTrace desde el menu o abrir pharmatrace.html directamente.
+Codigos de prueba: MC-2026-001, MC-2026-002, MC-2026-003 y MC-2026-004.
+Los datos de seguimiento son simulados y no conectan con envios reales.
+Todo funciona sin Internet.
